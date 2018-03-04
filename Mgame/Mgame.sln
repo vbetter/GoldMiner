@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mgame", "Mgame.csproj", "{B8B93982-81B6-06A5-8639-6118A8DD01FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mgame.Editor", "Mgame.Editor.csproj", "{8B546BE9-2A12-02AA-1E00-FB5D0BC480F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B93982-81B6-06A5-8639-6118A8DD01FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B93982-81B6-06A5-8639-6118A8DD01FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B93982-81B6-06A5-8639-6118A8DD01FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B93982-81B6-06A5-8639-6118A8DD01FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B546BE9-2A12-02AA-1E00-FB5D0BC480F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B546BE9-2A12-02AA-1E00-FB5D0BC480F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B546BE9-2A12-02AA-1E00-FB5D0BC480F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B546BE9-2A12-02AA-1E00-FB5D0BC480F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
